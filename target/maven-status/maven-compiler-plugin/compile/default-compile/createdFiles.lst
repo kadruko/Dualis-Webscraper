@@ -1,0 +1,9 @@
+com\schewe\dualisbot\dualiswebscraper\entrypoint\Main.class
+com\schewe\dualisbot\dualiswebscraper\Credentials.class
+com\schewe\dualisbot\dualiswebscraper\pages\ExamResultsPage.class
+com\schewe\dualisbot\dualiswebscraper\DualisClient.class
+com\schewe\dualisbot\dualiswebscraper\pages\Page.class
+com\schewe\dualisbot\dualiswebscraper\pages\MainPage.class
+com\schewe\dualisbot\dualiswebscraper\pages\ModulePage.class
+com\schewe\dualisbot\dualiswebscraper\pages\SemesterPage.class
+com\schewe\dualisbot\dualiswebscraper\CSVWriter.class
